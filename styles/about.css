@@ -122,7 +122,7 @@ body {
     }
 }
 
-@media (max-width: 1470px) {
+@media (max-width: 1200px) {
     .cabecalho {
         position: relative;
         text-align: center;
@@ -147,6 +147,7 @@ body {
 
     .principal__conteudo__img {
         margin-top: 5%;
+        width: 80vw;
     }
 
     .principal__conteudo img:hover {
@@ -156,12 +157,5 @@ body {
     .rodape {
         margin-top: 10%;
     }
-
-}
-
-@media (max-width: 1470px) {
-    .principal__conteudo img {
-        width: 80vw;
-}
 
 }
