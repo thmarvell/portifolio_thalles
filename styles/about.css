@@ -131,7 +131,6 @@ body {
         align-items: center;
 
         .cabecalho__menu {
-            background-color: #E4405F;
             flex-direction: column;
             align-items: center;
         }
